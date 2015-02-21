@@ -1,7 +1,7 @@
 # Twinkle
 GPU-accelerated UI framework powered by JavaScript for desktop/mobile apps
 
-(better description coming)
+![Screenshot](https://raw.githubusercontent.com/cgbystrom/twinkle/master/screenshot1.jpg)
 
 ## Getting started
 
