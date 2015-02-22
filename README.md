@@ -38,6 +38,7 @@ For Twinkle and Gibbon, such an alternative may be harder since the target platf
 Right now, Twinkle requires Windows, Visual Studio 2013 and the DirectX SDK to build (*)
 
 To get started:
+
 1. Git clone the project
 1. Run ```bin\premake4 vs2013``` to generate a solution file
 1. Run ```example\compile_shaders.bat``` to compile the shaders from the example
