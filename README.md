@@ -3,6 +3,8 @@ GPU-accelerated UI framework powered by JavaScript for desktop/mobile apps.
 Idea is to combine the fast workflow and deployment model of web with the performance
 of native code and GPU acceleration.
 
+**Repo on hold: Current development is continuing in a private branch due to modifications not being license compatible with open-source. Hoping to be able to resurface these changes at a later time.**
+
 ![Screenshot](https://raw.githubusercontent.com/cgbystrom/twinkle/master/screenshot1.jpg)
 
 ## Motivation
